@@ -4,9 +4,9 @@
 
 <img src="assets/spiderpunkgif2.gif"/>
 
-<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fluqastw"/><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=invision&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasborcem%2F"></p>
-
 - Brazillian, 19 years-old, searching for a job.
 - I recently started studying programming and I intend to become a developer in the future, with a preference for the areas of **Front-End**, **Game Development** and **Embedded Systems**. I will share my evolution through various repertoires and projects, so thank you for your attention.
 
 ##
+
+<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fluqastw"/><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=invision&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasborcem%2F"></p>
