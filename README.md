@@ -1,11 +1,11 @@
 # Lucas Soares Borcem. 🕸️🤘
 
-<img alt="Static Badge" src="https://img.shields.io/badge/html5-blue?style=for-the-badge&logo=html5&logoColor=%23f06224&logoSize=auto&labelColor=black&color=%23f06224&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML"/> <img alt="Static Badge" src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=%231573b5&logoSize=auto&labelColor=black&color=%231573b5&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS)"/> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=%23ffc800&logoSize=auto&labelColor=black&color=%23ffc800&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/> <img alt="Static Badge" src="https://img.shields.io/badge/C%20%2Fc%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=black&color=blue&link=https%3A%2F%2Fwww.ibm.com%2Fdocs%2Fen%2Fi%2F7.3.0%3Ftopic%3Dlanguages-c-c"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html5&logoColor=%23f06224&logoSize=auto&labelColor=black&color=%23f06224&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML"/> <img alt="Static Badge" src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css&logoColor=%231573b5&logoSize=auto&labelColor=black&color=%231573b5&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS)"/> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=%23ffc800&logoSize=auto&labelColor=black&color=%23ffc800&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/> <img alt="Static Badge" src="https://img.shields.io/badge/C%20%2Fc%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=black&color=blue&link=https%3A%2F%2Fwww.ibm.com%2Fdocs%2Fen%2Fi%2F7.3.0%3Ftopic%3Dlanguages-c-c"/>
 
 <img align="right" width="300px" src="https://github.com/luqastw/html-css/blob/main/assets/chibispiderpunksfundo.png"/>
 
 - Brazillian, 19 years-old, searching for a job.
-- I recently started studying programming and I intend to become a developer in the future, with a preference for the areas of **Front-End**, **Game Development** and **Embedded Systems**. I will share my evolution through various repertoires and projects, so thank you for your attention.
+- I recently started studying and I intend to become a developer in the future, with a preference for the areas of **Front-End**, **Game Development** and **Embedded Systems**. I will share my evolution through various repertoires and projects, so thank you for your attention.
 
 ###### Contacts
 
