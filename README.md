@@ -4,7 +4,7 @@
 
 - Just a student and tech enthusiast looking for a job.
 - I am currently studying with the focus of working in the technology area as a Software Developer, currently prioritizing the position of **Full-Stack** and **Game Dev**.
-- I study a lot about **Linux** in my free time, so maybe in the future I will not do a project related to it with Shell Script and other tools.
+- I study a lot about **Linux** in my free time, so maybe in the future I probably will do a project related to it with Shell Script and other tools.
 
 ## Tech Stack.
 
