@@ -1,12 +1,15 @@
-# Lucas Soares Borcem. 🕸️🤘
-
-<img alt="Static Badge" src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html5&logoColor=%23f06224&logoSize=auto&labelColor=black&color=%23f06224&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML"/> <img alt="Static Badge" src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css&logoColor=%231573b5&logoSize=auto&labelColor=black&color=%231573b5&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS)"/> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=%23ffc800&logoSize=auto&labelColor=black&color=%23ffc800&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/> <img alt="Static Badge" src="https://img.shields.io/badge/C%20%2Fc%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&labelColor=black&color=blue&link=https%3A%2F%2Fwww.ibm.com%2Fdocs%2Fen%2Fi%2F7.3.0%3Ftopic%3Dlanguages-c-c"/>
+# Hey, wassup? 🕸️🤘
 
 <img align="right" width="300px" src="https://github.com/luqastw/html-css/blob/main/assets/chibispiderpunksfundo.png"/>
 
-- Brazillian, 19 years-old, searching for a job.
-- I recently started studying and I intend to become a developer in the future, with a preference for the areas of **Front-End**, **Game Development** and **Embedded Systems**. I will share my evolution through various repertoires and projects, so thank you for your attention.
+- Just a student and tech enthusiast looking for a job.
+- I am currently studying with the focus of working in the technology area as a Software Developer, currently prioritizing the position of **Full-Stack** and **Game Dev**.
+- I study a lot about **Linux** in my free time, so maybe in the future I will not do a project related to it with Shell Script and other tools.
 
-###### Contacts
+## Tech Stack.
 
-<img alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fluqastw"/><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=invision&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasborcem%2F">
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
+##### Reach me at: lucasborcem1@gmail.com
+
+<img width="90px" alt="Static Badge" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fluqastw"/><img width="90px" alt="Static Badge" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=invision&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasborcem%2F">
