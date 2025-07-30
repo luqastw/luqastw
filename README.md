@@ -1,6 +1,4 @@
-# Hey, wassup? 🕸️🤘
-
-<img align="right" width="300px" src="https://github.com/luqastw/html-css/blob/main/assets/chibispiderpunksfundo.png"/>
+# Hey, wassup?
 
 - Just a student and tech enthusiast looking for a job.
 - I am currently studying with the focus of working in the technology area as a Software Developer, currently prioritizing the position of **Full-Stack** and **Game Dev**.
