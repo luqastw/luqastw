@@ -1,6 +1,6 @@
 # Hey, wassup?
 
-- I am a **Computer Science** student, often studying about technologies and tools to be able to take the first step in the job market. I am currently studying **data science and AI** for my own projects, but I am also focused on the knowledge to land a spot as a **Full-Stack** developer.
+- I'm a **Computer Science** student, often studying about technologies and tools to be able to take the first step in the job market. I'm currently studying **data science and AI** for my own projects, but I am also focused on the knowledge to land a spot as a **Full-Stack** developer.
 - I study a lot about **Linux** in my free time, so maybe in the future I probably will do a project related to it with Shell Script and other tools.
 
 ## Tech Stack.
