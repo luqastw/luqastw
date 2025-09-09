@@ -1,10 +1,8 @@
 {
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.inlineSuggest.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
   "editor.fontLigatures": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.lineHeight": 1.6,
-  "editor.rulers": [120],
   "editor.renderLineHighlight": "gutter",
   "editor.semanticHighlighting.enabled": false,
   "editor.scrollbar.horizontal": "hidden",
@@ -16,23 +14,21 @@
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
 
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 0.5,
   "window.autoDetectHighContrast": false,
-  "window.controlsStyle": "custom",
-  "window.menuBarVisibility": "compact",
+  "window.controlsStyle": "hidden",
 
   "breadcrumbs.enabled": false,
   "files.autoSave": "onWindowChange",
   "workbench.editor.empty.hint": "hidden",
-  "workbench.iconTheme": "city-lights-icons-vsc-light",
+  "workbench.iconTheme": "helium-icon-theme",
   "workbench.startupEditor": "none",
   "workbench.editor.labelFormat": "short",
-  "workbench.productIconTheme": "macos-modern",
+  "workbench.productIconTheme": "icons-carbon",
   "workbench.sideBar.location": "right",
   "workbench.activityBar.location": "hidden",
   "workbench.statusBar.visible": false,
   "workbench.navigationControl.enabled": false,
-  "workbench.layoutControl.enabled": false,
 
   "explorer.compactFolders": false,
   "explorer.confirmDelete": false,
@@ -42,7 +38,7 @@
   "security.workspace.trust.untrustedFiles": "open",
   "zenMode.silentNotifications": false,
 
-  "glassit.alpha": 220,
+  "prettier.printWidth": 1000,
   "livePreview.notifyOnOpenLooseFile": false,
   "codesnap.shutterAction": "copy",
   "codesnap.showLineNumbers": false,
@@ -55,5 +51,9 @@
     "plaintext": false,
     "markdown": false,
     "scminput": false
-  }
+  },
+  "workbench.colorTheme": "Min Dark",
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.layoutControl.enabled": false,
+  "window.menuBarVisibility": "compact"
 }
