@@ -1,7 +1,8 @@
 <div align="center">
- <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
+ <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 16px; color: #888;">
 
-[ user ] luqastw
+ 
+[ luqastw ]
 [ role ] cli tools · automation · systems
 [ environment ] linux · bash / zsh · vscode
 
