@@ -21,3 +21,5 @@ linux · bash / zsh · vscode
   github.com/luqastw
   linkedin.com/in/lucasborcem
   lucasborcem1@gmail.com
+
+![cursor](https://tenor.com/pt-BR/view/marmeladeclick-gif-9072342990240710874)
