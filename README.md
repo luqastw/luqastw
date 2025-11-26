@@ -1,6 +1,7 @@
-```
-[ user        ] luqastw
-[ role        ] cli tools · automation · systems
+<pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
+
+[ user ] luqastw
+[ role ] cli tools · automation · systems
 [ environment ] linux · bash / zsh · vscode
 
 [ stack ]
@@ -18,5 +19,3 @@
   github.com/luqastw
   linkedin.com/in/lucasborcem
   lucasborcem1@gmail.com
-
-```
