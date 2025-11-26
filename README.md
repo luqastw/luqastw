@@ -22,4 +22,4 @@ linux · bash / zsh · vscode
   linkedin.com/in/lucasborcem
   lucasborcem1@gmail.com
 
-![cursor](https://tenor.com/pt-BR/view/marmeladeclick-gif-9072342990240710874)
+<img src="assets/click.gif" width=50>
