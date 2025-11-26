@@ -1,1 +1,1 @@
-![infos](assets/image.png)
+<img src="assets/image.png" width=2500>
