@@ -1,10 +1,10 @@
 <div align="center">
- <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 16px; color: #888;">
+ <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 18px; color: #888;">
 
  
 [ luqastw ]
-[ role ] cli tools · automation · systems
-[ environment ] linux · bash / zsh · vscode
+cli tools · automation · systems
+linux · bash / zsh · vscode
 
 [ stack ]
   python · javascript · typescript · c
