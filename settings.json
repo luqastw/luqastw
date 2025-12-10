@@ -1,7 +1,7 @@
 {
-  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "editor.fontFamily": "Iosevka Nerd Font",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "editor.lineHeight": 1.6,
   "editor.renderLineHighlight": "gutter",
   "editor.semanticHighlighting.enabled": false,
@@ -9,27 +9,20 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "smooth",
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
-
-  "window.zoomLevel": 0.5,
+  "window.zoomLevel": 0,
   "window.autoDetectHighContrast": false,
   "window.controlsStyle": "hidden",
-
   "breadcrumbs.enabled": false,
   "files.autoSave": "onWindowChange",
   "workbench.editor.empty.hint": "hidden",
-  "workbench.iconTheme": "helium-icon-theme",
   "workbench.startupEditor": "none",
   "workbench.editor.labelFormat": "short",
-  "workbench.productIconTheme": "icons-carbon",
   "workbench.sideBar.location": "right",
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "bottom",
   "workbench.statusBar.visible": false,
   "workbench.navigationControl.enabled": false,
-
   "explorer.compactFolders": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
@@ -37,9 +30,6 @@
   "city-lights-icons-vsc.hidesExplorerArrows": true,
   "security.workspace.trust.untrustedFiles": "open",
   "zenMode.silentNotifications": false,
-
-  "prettier.printWidth": 1000,
-  "livePreview.notifyOnOpenLooseFile": false,
   "codesnap.shutterAction": "copy",
   "codesnap.showLineNumbers": false,
   "codesnap.backgroundColor": "#9f9f9f",
@@ -52,8 +42,9 @@
     "markdown": false,
     "scminput": false
   },
-  "workbench.colorTheme": "Min Dark",
+  "workbench.colorTheme": "Tokyo Night",
   "git.openRepositoryInParentFolders": "never",
   "workbench.layoutControl.enabled": false,
-  "window.menuBarVisibility": "compact"
+  "window.menuBarVisibility": "compact",
+  "workbench.iconTheme": "hypernym-icons"
 }
