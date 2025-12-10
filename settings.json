@@ -29,7 +29,6 @@
   "chat.commandCenter.enabled": false,
   "city-lights-icons-vsc.hidesExplorerArrows": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "zenMode.silentNotifications": false,
   "codesnap.shutterAction": "copy",
   "codesnap.showLineNumbers": false,
   "codesnap.backgroundColor": "#9f9f9f",
