@@ -9,4 +9,4 @@ And a few about Linux in general:
 
 - [dotfiles](https://github.com/luqastw/dotfilestw) - i3wm and NeoVim setup.
 
-CS Student and in constant learning, searching for a entry-level position. Contact me in <lucasborcem1@gmail.com>
+CS Student and in constant learning, searching for a entry-level position.
