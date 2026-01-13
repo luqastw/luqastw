@@ -1,4 +1,4 @@
-### Hi
+### Hi.
 
 Lately, I've studying a lot about Python and Security in general, writing some prototypes. Check out my code if you're interested.
 
