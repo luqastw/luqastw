@@ -3,7 +3,6 @@
 Lately, I've studying a lot about Python, Rust, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
 
 - [passtw](https://github.com/luqastw/passtw) - One-command-line password generator + encrypted local vault.
-- [hubtracktw](https://github.com/luqastw/hubtracktw) - Scalable GitHub repository analyzer built with Modern Python.
 - [E-API](https://github.com/luqastw/ecommerce-api) - Modern e-commerce API with AI product recommendations using FastAPI and OpenAI.
 - [OxidClean](https://github.com/luqastw/OxidClean) - A blazingly fast Arch Linux system cleaner and TUI package optimizer written in Rust.
 
