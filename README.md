@@ -6,6 +6,7 @@ Lately, I've studying a lot about Python, Rust, Linux and Security in general, w
 - [hubtracktw](https://github.com/luqastw/hubtracktw) - CLI tool to analyze GitHub repositories and display stats in a rich dashboard.
 - [E-API](https://github.com/luqastw/ecommerce-api) - Modern e-commerce API with AI product recommendations using FastAPI and OpenAI.
 - [OxidClean](https://github.com/luqastw/OxidClean) - A blazingly fast Arch Linux system cleaner and TUI package optimizer written in Rust.
+- [sniptw](https://github.com/luqastw/sniptw) - A developer tool to shorten, manage and track URLs entirely from the terminal.
 
 And here are some of my own stuff:
 
