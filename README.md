@@ -1,6 +1,6 @@
 ### Hi.
 
-Lately, I've studying a lot about Python, Rust, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
+Lately, I've studying a lot about Python, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
 
 - [passtw](https://github.com/luqastw/passtw) - One-command-line password generator + encrypted local vault.
 - [hubtracktw](https://github.com/luqastw/hubtracktw) - CLI tool to analyze GitHub repositories and display stats in a rich dashboard.
