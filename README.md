@@ -1,6 +1,6 @@
 ### Hi.
 
-Lately, I've studying a lot about Python, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
+Lately, I've studying a lot about PHP, Python, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
 
 - [E-API](https://github.com/luqastw/ecommerce-api) - E-commerce REST API featuring JWT auth, cart & order management, and an AI layer.
 - [passtw](https://github.com/luqastw/passtw) - One-command-line password generator + encrypted local vault.
