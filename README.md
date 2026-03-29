@@ -1,6 +1,6 @@
 ### Hi.
 
-Lately, I've studying a lot about PHP, Python, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
+Lately, I've studying a lot about PHP, Laravel, Python, Linux and Security in general, writing some prototypes and personal projects. Check out my code if you're interested.
 
 - [e-api](https://github.com/luqastw/ecommerce-api) - E-commerce REST API featuring JWT auth, cart & order management, and an AI layer.
 - [sniptw](https://github.com/luqastw/sniptw) - A developer tool to shorten, manage and track URLs entirely from the terminal.
