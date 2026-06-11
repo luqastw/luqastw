@@ -8,6 +8,7 @@ Lately, I've studying a lot about PHP, Laravel, Python, Linux and Security in ge
 - [canary](https://github.com/luqastw/canary) - A production-ready multi-tenant feature flag management system built with Laravel 13.
 - [passtw](https://github.com/luqastw/passtw) - One-command-line password generator + encrypted local vault.
 - [hubtracktw](https://github.com/luqastw/hubtracktw) - CLI tool to analyze GitHub repositories and display stats in a rich dashboard.
+- [emita.io](https://github.com/luqastw/emita.io) - Multi-tenant invoice API for freelancers with PDF generation and Stripe payments.
 - [oxidclean](https://github.com/luqastw/OxidClean) - A blazingly fast Arch Linux system cleaner and TUI package optimizer written in Rust.
 
 And here are some of my own stuff:
