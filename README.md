@@ -15,4 +15,12 @@ And here are some of my own stuff:
 
 - [dotfiles](https://github.com/luqastw/dotfilestw) - i3wm and NeoVim setup.
 
+**Tech stack:**
+
+- Backend: PHP (Laravel, Sanctum), Python (FastAPI), Rust
+- Data: MySQL, PostgreSQL, Redis
+- AI/ML: RAG & semantic search with sentence-transformers, Groq
+- Testing: Pest, PHPUnit, pytest
+- Tools: Docker, Git, Linux
+
 CS student with hands-on freelance experience building and maintaining Laravel systems in production. Always learning, open to new opportunities.
